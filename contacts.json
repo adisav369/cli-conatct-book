@@ -1,0 +1,27 @@
+{
+    "Adithya": {
+        "phone": "1234567890",
+        "email_address": "adithya@gmail.com",
+        "address": "hyderabad"
+    },
+    "aravind": {
+        "phone": "1234567892",
+        "email_address": "aravind@gmail.com",
+        "address": "chennai"
+    },
+    "adithya": {
+        "phone": "1234567891",
+        "email_address": "adithyasvb@gmail.com",
+        "address": "hyderabad"
+    },
+    "madhavi": {
+        "phone": "1234567893",
+        "email_address": "madhavi@gmail.com",
+        "address": "chennai"
+    },
+    "suribabu": {
+        "phone": "1234567896",
+        "email_address": "mabd",
+        "address": "india"
+    }
+}
